@@ -16,7 +16,7 @@ public class Main {
 //		SerializeDB.writeSerializedObject("Tables.dat", testing);
 //		File file = new File("Tables.dat");
 //		System.out.println(file.length());
-		
+		System.out.println("FUCK YOU");
 		try {
 			after = SerializeDB.readSerializedObject("Tables.dat");
 		} catch (Exception e) {
