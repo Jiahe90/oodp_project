@@ -44,3 +44,10 @@ $RECYCLE.BIN/
 
 # Mac crap
 .DS_Store
+
+#############
+## Visual Paradigm Temp Files
+#############
+
+# .vpp~1 don't know wtf that is
+*.vpp~*
